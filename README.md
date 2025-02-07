@@ -1,5 +1,6 @@
 # blog
-个人博客
+
+个人博客 https://sy-akk.github.io/blog
 
 # hexo部署Pages流程
 
