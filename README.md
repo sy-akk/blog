@@ -14,4 +14,5 @@ Settings->Pages->Source->Github Actions
 Settings->Actions->General->Workflow permissions->Read and write permissions
 5. 配置工作流和改url，
 找到 deploy.yml  _config.yml 配置好对应的文件路径和最终访问地址
+![](./assets/images/替换url.png)
 6. git push推送，然后自动部署，可以在github的Actions查看进度，完成后打开对应的地址即可
