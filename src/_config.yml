@@ -15,6 +15,8 @@ timezone: ''
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://sy-akk.github.io/blog
 root: /blog
+# url: http://127.0.0.1:5500  # 本地访问地址，端口号改成本地服务端口（或者使用hexo server不需要自己配置本地url）
+# root: /src/public # 本地访问地址
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
